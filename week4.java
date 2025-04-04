@@ -3,5 +3,6 @@ public class week4 {
     System.out.println("Collaborative Java Projecvt\n");
 
   student1.display();
+    Cerzo1.display();
   }
 }
